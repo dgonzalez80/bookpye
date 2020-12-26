@@ -25,17 +25,17 @@ e. book.bib  referencias bibliográficas, en formato BibTex
 Estructura por Modulos
 
 000-  Modulo 0 , Lo que debes saber al empezar
-
+---
 100 - Modulo 1, Analiza tus datos
-
+---
 200 - Modulo 2, Cuantifica el riesgo
-
+---
 300 - Modulo 3, Conoce sobre modelos estadísticos
- 
+--- 
 400 - Modulo 4, Generaliza tus resultados e hipótesis
-
+---
 500 - Modulo 5, Aplica lo aprendido
-
+---
 
 
 
