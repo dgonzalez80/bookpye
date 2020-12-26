@@ -1,25 +1,23 @@
 # bookpye
-Notas para el curso de probabilidad y estadistica
+Notas para el curso de probabilidad y estadística
 que se ira construyendo en la medida que avance el curso
 
 Periodo 2021-1
-Probabilidad y Estadistica 
+Probabilidad y Estadística 
 
 Consideraciones iniciales
 
-Estreuctura
+Estructura
 
-a. index.Rmd  - configuracion general
+a. index.Rmd  - configuración general
 
-b. Un archivo .Rmd por cada capitulo, se ordenados alfabeticamente 000- , 001- ...
+b. Un archivo .Rmd por cada capítulo, se ordenados alfabéticamente 000- , 001- ...
 
-c. _bookdown.yml  configuracion de compilacion del libro
+c. _bookdown.yml  configuración de compilación del libro
 
-d. style.css   especificaciones de las opciones del libro formato HTML/LaTeX
-
-   preamble.tex
+d. style.css   especificaciones de las opciones del libro formato HTML/LaTeX.    preamble.tex
    
-e. book.bib  referencias blibliograficas, en formato BibTex
+e. book.bib  referencias bibliográficas, en formato BibTex
 
 
 ---
@@ -32,13 +30,11 @@ Estructura por Modulos
 
 200 - Modulo 2, Cuantifica el riesgo
 
-300 - Modulo 3, Conoce sobre modelos estadisticos
+300 - Modulo 3, Conoce sobre modelos estadísticos
  
-400 - Modulo 4, Generaliza tus resultados e hipotesis
+400 - Modulo 4, Generaliza tus resultados e hipótesis
 
 500 - Modulo 5, Aplica lo aprendido
-
-
 
 
 
