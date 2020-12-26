@@ -20,6 +20,8 @@ d. style.css   especificaciones de las opciones del libro formato HTML/LaTeX.   
 e. book.bib  referencias bibliográficas, en formato BibTex
 
 
+referencia: https://bookdown.org/yihui/bookdown/
+
 ---
 
 Estructura por Modulos
