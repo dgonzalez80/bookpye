@@ -102,21 +102,16 @@ Estructura por Modulos
 
 ----
 
-Anexos
-
-
-
-
-
-
-
-
----
-
 500 - Modulo 5, Aplica lo aprendido
 
+510- Regresion lineal simple
+
+
+520- Regresion lineal multiple
+
 ---
 
+600- Anexos
 
 
 
